@@ -1,2 +1,2 @@
-# Leetcode_Practice_Python
-Used Python to solve the algorithm problems in Leetcode
+# Leetcode_Practice
+Used Python and C++ to solve the algorithm problems in Leetcode
